@@ -1,5 +1,8 @@
-RetroPie-Setup
-==============
+Companion, TheCube - RetroPie-Setup
+===================================
+
+This fork of [RetroPie-Setup](https://github.com/RetroPie/RetroPie-Setup) will be customized for Companion, TheCube. For now, it is a placeholder.
+
 
 General Usage
 -------------
